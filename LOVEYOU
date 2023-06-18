@@ -1,0 +1,19 @@
+<!-- Tên trang web -->
+<title>Yêu Bảo bối</title>
+<script>
+    //Thay phần kịch bản bằng kịch bản của bạn
+    var kichban = [
+        ['Anh à, em có điều muốn nói','Em nói đi'],
+        ['Em muốn hỏi em là:..','Đừng ngại, Em cứ nói đi :>']
+    ]
+    //Thay loiToTinh bằng lời tỏ tình của bạn
+    var loiToTinh = 'Em yêu anh lắm á:33'
+    //Thay lời xác nhận bằng lời xác nhận của bạn
+    var xacnhan = 'Hihii :>';
+    //Tốc độ in chữ ra
+    var tocDo = 50;
+    //Khi chọn Không thì sẽ thông báo ra:
+    var khiChonKhong = 'Đừng ngoan cố thế chọn nút kia đi!'
+    //Link ảnh chèn vào web
+    var linkImg = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfVK-S8xykHgyr19sKMMCFOM3HBugLh1LaZA&usqp=CAU'
+</script>
